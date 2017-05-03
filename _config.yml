@@ -69,5 +69,5 @@ theme: iissnan
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
  type:  git
- repository:  https://daiwen1512@163.com:*******@github.com/daivven/daiwen.git
+ repository:  https://daiwen1512@163.com:dw850201@github.com/daivven/daiwen.git
  branch:  master
